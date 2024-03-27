@@ -1,0 +1,7 @@
+*.si4project/
+User/Keil_project/output/*
+User/Keil_project/list/*
+User/Keil_project/*.uvguix.*
+
+
+
